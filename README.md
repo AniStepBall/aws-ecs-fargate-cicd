@@ -1,4 +1,4 @@
-# AWS Week 7: ECS Fargate CI/CD Deployment
+# ECS Fargate CI/CD Deployment
 
 ## About
 This project deploys a Dockerized Flask application to AWS ECS Fargate using:
